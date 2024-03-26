@@ -1,5 +1,5 @@
 - 👋 Hi, I’m chaaaam
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Science,Machine Learning
 - 🌱 I’m currently learning Data Analytics
 - 
 <!---
